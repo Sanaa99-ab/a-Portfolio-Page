@@ -1,0 +1,30 @@
+
+.introduction img{
+    width: 175px;
+    height: 175px;
+}
+.introduction .p3 {
+    font-size: 20px;
+}
+.introduction p{
+    font-size: 30px;
+}
+section{
+    margin: 7rem 0;
+}
+.about .p1{
+    font-size: 40px;
+    
+}
+.mw-650{
+    max-width: 650px;
+}
+.fs-2{
+    font-size: 30px;
+}
+.pl-4{
+    padding-left: 4px;
+}
+.pr-2{
+    padding-right: 2px;
+}
